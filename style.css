@@ -1,0 +1,68 @@
+﻿.lnr-enter {
+  color: #0F52BA;
+  font-size: 20px;
+}
+body{
+	background-color: #FAF0E6;
+}
+.section{
+	width: 75%;
+	background-color:#87CEFA;
+	padding: 1px;
+	margin-bottom: 10px;
+	margin-left: 9%;
+	border-radius: 5x;
+}
+#social_ui{
+	color: #FFFFFF;
+}
+.section2{
+	background-color: #87CEFA;
+}
+.lnr {
+  display: inline-block;
+  fill: currentColor;
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: -0.05em;
+  color: #black;
+}
+.lnr:hover{
+	color:#191970;
+}
+
+
+/* portfolio*/
+.container{
+	width: 1250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.activity-feed{
+	height: 500px;
+	width: 370px;
+}
+#sms{
+	height: 500px;
+	width: 370px;
+	}
+.people-follow{
+	height :500px;
+	width: 280px;
+}
+.row:after{
+	clear: both;
+	content: "";
+	display: table;
+}
+.col-4{
+	background-color:#FFFFFF ;
+	margin-right: 60px;
+	float : left;
+}
+.col-4:last-child{
+	margin-right: 0 px;
+}
+
+
+
